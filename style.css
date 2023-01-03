@@ -1,3 +1,7 @@
 p {
     color: brown;
 }
+.fontbig {
+    font-size: 25px;
+    color: rgb(2, 112, 75);
+}
